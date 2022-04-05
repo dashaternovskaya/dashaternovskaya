@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dasha Ternovskaya – recent graduate of Peter the Great St. Petersburg Polytechnic University (SPbPU)
 - 👀 I’m interested in Python, analytics, yoga, foreign languages and ... life!
-- 🌱 I’m currently learning the theory of software testing and improve my knowledge of Python via JetBrains Academy courses
+- 🌱 I’m currently learning the theory of software testing and improve my Python skills via JetBrains Academy courses and LeetCode
 - 📫 How to reach me: dashaternovskaya@gmail.com, https://t.me/dtern
 
 <!---
