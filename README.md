@@ -1,5 +1,5 @@
 ## Hi 👋 
-I’m Dasha Ternovskaya – recent graduate of the Peter the Great St. Petersburg Polytechnic University (SPbPU).
+I’m Dasha Ternovskaya – recent graduate of Peter the Great St. Petersburg Polytechnic University (SPbPU).
 
 👀 I’m interested in Python, analytics, yoga, foreign languages and ... life!
 
