@@ -1,9 +1,9 @@
-## Hi there 👩🏻‍💻
-I’m Daria Ternovskaya – a graduate of Peter the Great St. Petersburg Polytechnic University (SPbPU) and Pythonnista.
+## Hi there! 
+I’m Daria Ternovskaya – a graduate of Peter the Great St. Petersburg Polytechnic University (SPbPU) and Pythonnista 🐍.
 
 👀 I’m interested in coding, analytics, yoga, foreign languages and ... life!
 
-🌱 Currently I'm learning the theory of software testing and working on my own project – a web-application that leverages Spotify and Youtube APIs to deliver the benefits of integration these two apps for melomans.
+👩🏻‍💻 Currently I'm learning the theory of software testing and working on my own project – a web-application that leverages Spotify and Youtube APIs to deliver the benefits of integration these apps for melomans.
 
 ---
 ## How to contact me 📫   
