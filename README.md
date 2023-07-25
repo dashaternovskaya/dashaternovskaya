@@ -1,7 +1,7 @@
 ## Hi there! 
 I’m Daria Ternovskaya – a graduate of Peter the Great St. Petersburg Polytechnic University (SPbPU) and Pythonnista 🐍.
 
-👀 I love coding, analytics, yoga, foreign languages and ... life!
+👀 I love coding, learning new things, yoga, foreign languages and ... life!
 
 👩🏻‍💻 Currently I learn software testing and work on my own project – a web-application that leverages Spotify and Youtube APIs to deliver music lovers the benefits of integrating these two awesome apps.
 
